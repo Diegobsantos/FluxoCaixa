@@ -1,0 +1,30 @@
+# Performance Optimization - Generated Files
+cache/
+*.cache
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.bak
+*.backup
+
+# System files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Configuration files (protect sensitive data)
+config_production.php
+.env
+
+# Error logs
+error_log
+php_errors.log
+
+# Session files
+sessions/
+tmp/
